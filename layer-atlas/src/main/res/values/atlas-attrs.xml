@@ -37,6 +37,8 @@
         <attr name="cellUnreadBackgroundColor" />
         <attr name="dateTextColor" />
         <attr name="dateTextTypeface" />
+        <attr name="dateUnreadTextColor" />
+        <attr name="dateUnreadTextTypeface" />
         <attr name="avatarTextColor" />
         <attr name="avatarBackgroundColor" />
         <attr name="avatarBorderColor" />
