@@ -31,7 +31,7 @@
         android:src="@drawable/ic_add_white_24dp"
         android:visibility="gone"
         tools:visibility="visible"
-        android:contentDescription="attach media"
+        android:contentDescription="@string/attach_media"
         />
 
     <EditText
